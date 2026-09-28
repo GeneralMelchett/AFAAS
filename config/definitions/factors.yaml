@@ -1,0 +1,12 @@
+# AFAAS Experimental Factor Catalogue
+#
+# Defines experimental factors that may deliberately be varied between
+# experimental conditions.
+#
+# Factors describe experimental dimensions rather than the content
+# supplied directly to the model. Individual experiments will select
+# the applicable conditions or levels.
+#
+# No factors have yet been formally defined.
+
+factors: {}

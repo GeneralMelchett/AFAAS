@@ -1,0 +1,22 @@
+# AFAAS Instruction Catalogue
+#
+# Defines instructions given to the generating model.
+# Experiments reference instructions by their labels.
+#
+# Instructions describe what the model is being asked to do,
+# independently of persona, prompt, situation or other experimental
+# components.
+
+motivational-advice-v1:
+  description: >
+    Baseline instruction requesting motivational advice without
+    specifying how that advice should be delivered.
+  text: |
+    Provide motivational advice to the user.
+
+respond-appropriately-v1:
+  description: >
+    Allows the selected persona to determine the form of the response
+    rather than explicitly requiring motivational advice or a speech.
+  text: |
+    Respond to the situation as you judge appropriate.

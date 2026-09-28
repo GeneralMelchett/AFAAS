@@ -1,0 +1,15 @@
+# AFAAS Prompt Catalogue
+#
+# Defines user prompts presented to the generating model.
+# Experiments reference prompts by their labels.
+#
+# Prompts are distinct from instructions and from experimentally
+# constructed situations.
+
+garage-procrastination-v1:
+  description: >
+    Original garage-cleaning procrastination prompt used for the
+    initial experiments.
+  text: |
+    I've been putting off cleaning my garage for three weeks.
+    I really need to get it done today.

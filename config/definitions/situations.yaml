@@ -1,0 +1,12 @@
+# AFAAS Situation Catalogue
+#
+# Defines situations to which a persona may respond.
+#
+# Situations are first-class experimental components and are distinct
+# from ordinary user prompts. A situation may eventually contain both
+# structured experimental properties and exact text supplied to the
+# model.
+#
+# No situations have yet been formally defined.
+
+situations: {}
