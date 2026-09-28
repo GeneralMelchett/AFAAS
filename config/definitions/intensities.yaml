@@ -1,0 +1,6 @@
+# AFAAS Intensity Catalogue
+#
+# No intensity definitions have yet been formally defined. The runner treats
+# this empty catalogue as the valid ``none`` intensity condition.
+
+intensities: {}
